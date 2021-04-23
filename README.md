@@ -6,8 +6,10 @@
 
 
 <p align="center">
-<img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+<a href="https://kotlinlang.org/">
+<img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/></a> 
+<a href=" https://www.android.com/intl/pt-BR_br/">
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/></a>
 </p>
 
 ### :pencil: Aplicativo Listagem de Livros:
