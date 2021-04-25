@@ -3,4 +3,4 @@
     android:layout_width="match_parent"
     android:layout_height="?android:attr/actionBarSize"
     android:background="@color/teal_700"
-    xmlns:android="http://schemas.android.com/apk/res/android"></androidx.appcompat.widget.Toolbar>
+    xmlns:android="http://schemas.android.com/apk/res/android" />
